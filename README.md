@@ -1,2 +1,0 @@
-# moj-posao.net
-Mockup
