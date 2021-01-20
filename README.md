@@ -1,2 +1,2 @@
 # mojposao.net
-Mockup
+One page template za Mockup za index.hr
