@@ -19,14 +19,14 @@
 
 # DIzajn   
 
-One page template za Mockup za index.hr
-<a class="btn btn-primary btn-xl js-scroll-trigger" role="button" href="https://amkyn.github.io/mojposao.net/ihr/">mojposao</a>
+Prvi template za Mockup za index.hr
+<a class="btn btn-primary btn-xl js-scroll-trigger" role="button" href="https://amkyn.github.io/mojposao.net/ihr/">Mojposao</a>
 <p>
-Two page template mockup za index.hr
-<a class="btn btn-primary btn-xl js-scroll-trigger" role="button" href="https://amkyn.github.io/mojposao.net/biz/">kafić</a>
+Drugi template mockup za index.hr
+<a class="btn btn-primary btn-xl js-scroll-trigger" role="button" href="https://amkyn.github.io/mojposao.net/biz/">Kafić</a>
 <p>
-Two page template mockup za index.hr
-<a class="btn btn-primary btn-xl js-scroll-trigger" role="button" href="https://amkyn.github.io/mojposao.net/des/">trgovina</a>
+Treći template mockup za index.hr
+<a class="btn btn-primary btn-xl js-scroll-trigger" role="button" href="https://amkyn.github.io/mojposao.net/des/">Trgovina</a>
 <p>
-Two page template mockup za index.hr
-<a class="btn btn-primary btn-xl js-scroll-trigger" role="button" href="https://amkyn.github.io/mojposao.net/admin/">backend</a>
+Četvrti template mockup za index.hr
+<a class="btn btn-primary btn-xl js-scroll-trigger" role="button" href="https://amkyn.github.io/mojposao.net/admin/">Backend</a>
