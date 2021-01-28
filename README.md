@@ -57,7 +57,7 @@
 ```
 # Bootstrap primjeri
 
-Prvi template za Mockup za index.hr
+Prvi template za mockup za index.hr
 <a class="btn btn-primary btn-xl js-scroll-trigger" role="button" href="https://amkyn.github.io/mojposao.net/ihr/">One page</a>
 <p>
 Drugi template mockup za index.hr
