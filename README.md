@@ -1,6 +1,5 @@
 # index.hr
 
-<table data-paste-markdown-skip>
 
                          ◎                                                                             
                          │                                                                             
@@ -60,7 +59,6 @@
 
 
 
-</table>
 
 # Bootstrap primjeri
 
