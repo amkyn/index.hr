@@ -15,9 +15,9 @@
                 \    /\    / /  _____  \  |  |\  \----.----)   |                
                  \__/  \__/ /__/     \__\ | _| `._____|_______/                 
 
-```
 
-# DIzajn   
+
+# Bootstrap   
 
 Prvi template za Mockup za index.hr
 <a class="btn btn-primary btn-xl js-scroll-trigger" role="button" href="https://amkyn.github.io/mojposao.net/ihr/">Mojposao</a>
@@ -30,3 +30,4 @@ Treći template mockup za index.hr
 <p>
 Četvrti template mockup za index.hr
 <a class="btn btn-primary btn-xl js-scroll-trigger" role="button" href="https://amkyn.github.io/mojposao.net/admin/">Backend</a>
+```
