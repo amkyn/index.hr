@@ -1,4 +1,5 @@
 # index.hr
+<table data-paste-markdown-skip>
 ```
                          ◎                                                                             
                          │                                                                             
@@ -58,6 +59,7 @@
 
 
 ```
+</table>
 # Bootstrap primjeri
 
 Prvi template za mockup za index.hr
