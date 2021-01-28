@@ -55,7 +55,7 @@
             ┗─┛ ┗────┛         │ ┌─┐    │                                                             
                                ┗─┛ ┗────┛                                                             
 ```
-# Bootstrap   
+# Bootstrap primjeri
 
 Prvi template za Mockup za index.hr
 <a class="btn btn-primary btn-xl js-scroll-trigger" role="button" href="https://amkyn.github.io/mojposao.net/ihr/">One page</a>
