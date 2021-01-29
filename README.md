@@ -64,14 +64,14 @@
 # Bootstrap primjeri
 
 Prvi template za mockup za index.hr
-<a class="btn btn-primary btn-xl js-scroll-trigger" role="button" href="https://amkyn.github.io/index.hr/ihr/">One page</a>
+<a class="btn btn-primary btn-xl js-scroll-trigger" role="button" href="https://amkyn.github.io/index.hr/reemak/">Rimac micro site</a>
 <p>
 Drugi template mockup za index.hr
-<a class="btn btn-primary btn-xl js-scroll-trigger" role="button" href="https://amkyn.github.io/index.hr/biz/">Multi page</a>
+<a class="btn btn-primary btn-xl js-scroll-trigger" role="button" href="https://amkyn.github.io/index.hr/ihr/">Multi page</a>
 <p>
 Treći template mockup za index.hr
 <a class="btn btn-primary btn-xl js-scroll-trigger" role="button" href="https://amkyn.github.io/index.hr/des/">Trgovina</a>
 <p>
 Četvrti template mockup za index.hr
-<a class="btn btn-primary btn-xl js-scroll-trigger" role="button" href="https://amkyn.github.io/index.hr/admin/">Backend</a>
+<a class="btn btn-primary btn-xl js-scroll-trigger" role="button" href="https://amkyn.github.io/index.hr/biz/">Backend</a>
 
