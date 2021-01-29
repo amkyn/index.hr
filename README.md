@@ -73,7 +73,7 @@ Treći template mockup za index.hr
 <a class="btn btn-primary btn-xl js-scroll-trigger" role="button" href="https://amkyn.github.io/index.hr/des/">Trgovina</a>
 <p>
 Četvrti bootstrap template za index.hr
-<a class="btn btn-primary btn-xl js-scroll-trigger" role="button" href="https://amkyn.github.io/index.hr/biz/">Coffe</a>
+<a class="btn btn-primary btn-xl js-scroll-trigger" role="button" href="https://amkyn.github.io/index.hr/biz/">Coffee</a>
 <p>
 Peti template za index.hr
 <a class="btn btn-primary btn-xl js-scroll-trigger" role="button" href="https://amkyn.github.io/index.hr/admin/">Admin</a>
