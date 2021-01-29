@@ -60,7 +60,7 @@
 
 
 ```
-</h3>
+
 # Bootstrap primjeri
 
 Prvi template za mockup za index.hr
