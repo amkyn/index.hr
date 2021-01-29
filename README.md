@@ -69,8 +69,8 @@ Prijedlog /ideja bootstrap mockup-a za Rimac mikro sajt
 Apple Like wannabe imitation flattery ;)
 <a class="btn btn-primary btn-xl js-scroll-trigger" role="button" href="https://amkyn.github.io/index.hr/apple/">Apple</a>
 <p>  
-Drugi bootstrap template mockup...
-<a class="btn btn-primary btn-xl js-scroll-trigger" role="button" href="https://amkyn.github.io/index.hr/ihr/">Multi page</a>
+Single page scroll bootstrap template mockup...
+<a class="btn btn-primary btn-xl js-scroll-trigger" role="button" href="https://amkyn.github.io/index.hr/ihr/">One page</a>
 <p>
 Treći bootstrap template mockup...
 <a class="btn btn-primary btn-xl js-scroll-trigger" role="button" href="https://amkyn.github.io/index.hr/des/">Trgovina</a>
