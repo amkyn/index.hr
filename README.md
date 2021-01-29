@@ -63,7 +63,7 @@
 
 # Bootstrap primjeri
 
-Prijedlog/ideja bootstrap mockup-a za Rimac mikro sajt
+Prijedlog /ideja bootstrap mockup-a za Rimac mikro sajt
 <a class="btn btn-primary btn-xl js-scroll-trigger" role="button" href="https://amkyn.github.io/index.hr/reemak/">Rimac micro site</a>
 <p>
 Drugi bootstrap template mockup...
