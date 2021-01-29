@@ -63,22 +63,20 @@
 
 # Bootstrap primjeri
 
-Prvi template za mockup za index.hr
+Prijedlog/ideja bootstrap mockup-a za Rimac mikro sajt
 <a class="btn btn-primary btn-xl js-scroll-trigger" role="button" href="https://amkyn.github.io/index.hr/reemak/">Rimac micro site</a>
 <p>
-Drugi template mockup za index.hr
+Drugi bootstrap template mockup...
 <a class="btn btn-primary btn-xl js-scroll-trigger" role="button" href="https://amkyn.github.io/index.hr/ihr/">Multi page</a>
 <p>
-Treći template mockup za index.hr
+Treći bootstrap template mockup...
 <a class="btn btn-primary btn-xl js-scroll-trigger" role="button" href="https://amkyn.github.io/index.hr/des/">Trgovina</a>
 <p>
-Četvrti bootstrap template za index.hr
+Četvrti bootstrap template za...
 <a class="btn btn-primary btn-xl js-scroll-trigger" role="button" href="https://amkyn.github.io/index.hr/biz/">Coffee</a>
 <p>
-Peti template za index.hr
+Peti, administratorski template...
 <a class="btn btn-primary btn-xl js-scroll-trigger" role="button" href="https://amkyn.github.io/index.hr/admin/">Admin</a>
 <p>
-Šesti template mockup za index.hr
-<a class="btn btn-primary btn-xl js-scroll-trigger" role="button" href="https://amkyn.github.io/index.hr/blog/">Multi page</a>
-<p>
+
 
