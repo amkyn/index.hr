@@ -81,5 +81,8 @@ Peti bootstrap template za...
 Šesti, administratorski template...
 <a class="btn btn-primary btn-xl js-scroll-trigger" role="button" href="https://amkyn.github.io/index.hr/admin/">Admin</a>
 <p>
+MKK Designer portfolio
+<a class="btn btn-primary btn-xl js-scroll-trigger" role="button" href="https://amkyn.github.io/index.hr/mkkis2/">MKK</a>
+<p>
 
 
