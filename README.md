@@ -3,15 +3,15 @@
 
                          ◎                                                                             
                          │                                                                             
-                         │                 ┌──────────                                                  
-                 ┌───────◇───────┐         │                                                            
-                 │               │         │                                                            
-             ┏■──┘━━━━━━━━━━━━━━━└──■┓     │                                                            
-             ┃*━━━━━━━━━━━━━━━━━━━━━*┃     ◍ Hello,                                                     
-             ┃┃    ■■■■■   ■■■■■    ┃┃    ╱  Milica Kesic Kis                                                   
-             ┃┃    ▩▩▩▩▩   ▩▩▩▩▩    ┃┃   ╱   readers!                                                   
-             ┃┃    ▧▧▧▧▧   ▧▧▧▧▧    ┃┃  ╱──◍                                                            
-             ┃*━━━━━━━━━━━━━━━━━━━━━*┃ └──────────                                                  
+                         │                ┌──────────                                                  
+                 ┌───────◇──────┐         │                                                            
+                 │              │         │                                                            
+             ┏■──┘━━━━━━━━━━━━━━└──■┓     │                                                            
+             ┃*━━━━━━━━━━━━━━━━━━━━*┃     ◍ Hello,                                                     
+             ┃┃    ■■■■■   ■■■■■   ┃┃    ╱  Milica Kesic Kis                                                   
+             ┃┃    ▩▩▩▩▩   ▩▩▩▩▩   ┃┃   ╱   readers!                                                   
+             ┃┃    ▧▧▧▧▧   ▧▧▧▧▧   ┃┃  ╱──◍                                                            
+             ┃*━━━━━━━━━━━━━━━━━━━━*┃ └──────────                                                  
              ◆─────◆─────◆─────◆─────◆                                                                 
              │╲***╱*╲***╱*╲***╱*╲***╱│                                                                 
              │*╲*╱***╲*╱***╲*╱***╲*╱*│                                                                 
@@ -36,14 +36,14 @@
   │ │       ┃   ┗━━━━━━━━━━━━━━━┛   ┃        │ │                                                       
 ┌──◎──┐     ┃◦                     ◦┃      ┌──◎──┐                                                     
 │ ┌─┐ │ ┏━━━━━━━━━━━━┓◬◬◬◬◬┏━━━━━━━━━━━┓   │ ┌─┐ │                                                     
-└─┘ └─┘ ┃            ┃━━━━━┃           ┃   └─┘ └─┘                                                     
-        ┃          ┃ ┃     ┃    ┏━━━┓  ┃                                                             
-        ┃   ┏━━━━┓ ┃ ┃     ┃    ┃   ┃  ┃                    
-        ┗━━━┃    ┃━━━┛     ┗━━━━┃   ┃━━┛               _  _    ___  _  _         
-            ┃    ┃              ┃   ┃                 | || |  / _ \| || |         
-            ┗┓   ┃              ┃   ┃                 | || |_| | | | || |_        
-             ┃   ┃              ┃   ┃                 |__   _| |_| |__   _|        
-             ┗ ━ ┛              ┗ ━ ┛                    |_|  \___/   |_|      
+└─┘ └─┘ ┃          ┓ ┃━━━━━┃ ┃         ┃   └─┘ └─┘                                                     
+        ┃          ┃ ┃     ┃ ┃  ┏━━━┓  ┃                                                             
+        ┃   ┏━━━━┓ ┛ ┃     ┃ ┗  ┃   ┃  ┃                    
+        ┗━━━┃    ┃━━━┛     ┗━━━━┃   ┃━━┛        	       _  _    ___  _  _         
+            ┃    ┃              ┃   ┃           	      | || |  / _ \| || |         
+            ┗┓   ┃              ┃   ┃           	      | || |_| | | | || |_        
+             ┃   ┃              ┃   ┃           	      |__   _| |_| |__   _|        
+             ┗ ━ ┛              ┗ ━ ┛          	                 |_|  \___/   |_|      
              ┏━━━┓              ┏━━━┓                                                                 
              ┗━━━┛              ┗━━━┛           ____    __    ____  ___      .______          _______.
               │ │                │ │            \   \  /  \  /   / /   \     |   _  \        /       |
@@ -58,8 +58,8 @@
 
 
 
- 
-
+ There isn't a Pages site here, LOOK down ━━━┓
+				             ◹
 
 
 
@@ -74,7 +74,7 @@
 
 # Bootstrap primjeri
 
-Prijedlog /ideja bootstrap mockup-a za Rimac mikro sajt
+<!--Prijedlog /ideja bootstrap mockup-a za Rimac mikro sajt
 <a class="btn btn-primary btn-xl js-scroll-trigger" role="button" href="https://amkyn.github.io/index.hr/reemak/">Rimac micro site</a>
 <p>
 Apple Like wannabe imitation flattery ;)
@@ -90,10 +90,14 @@ Peti bootstrap template za...
 <a class="btn btn-primary btn-xl js-scroll-trigger" role="button" href="https://amkyn.github.io/index.hr/biz/">Coffee</a>
 <p>
 Šesti, administratorski template...
-<a class="btn btn-primary btn-xl js-scroll-trigger" role="button" href="https://amkyn.github.io/index.hr/admin/">Admin</a>
+<a class="btn btn-primary btn-xl js-scroll-trigger" role="button" href="https://amkyn.github.io/index.hr/admin/">Admin</a>-->
+<p>
+MKK Fashion portfolio
+<a class="btn btn-primary btn-xl js-scroll-trigger" role="button" href="https://amkyn.github.io/index.hr/desy/">Fashion</a>
+<p>
 <p>
 MKK Designer portfolio
-<a class="btn btn-primary btn-xl js-scroll-trigger" role="button" href="https://amkyn.github.io/index.hr/mkkis2/">MKK</a>
+<a class="btn btn-primary btn-xl js-scroll-trigger" role="button" href="https://amkyn.github.io/index.hr/mkkis2/">Graphic</a>
 <p>
 
 
